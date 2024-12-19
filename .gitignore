@@ -85,3 +85,7 @@ OpenMP/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml
 OpenMP/cmake-build-debug/CMakeFiles/rules.ninja
 OpenMP/cmake-build-debug/CMakeFiles/TargetDirectories.txt
 OpenMP/cmake-build-debug/Testing/Temporary/LastTest.log
+*.json
+*.ninja
+
+build/
