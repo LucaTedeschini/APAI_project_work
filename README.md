@@ -91,7 +91,6 @@ cd build
 
 - OpenMP version has memory constraints
 - Maximum input size: N = 2^21, K = 1000
-- CUDA performance may vary based on GPU architecture
 
 ## Authors
 
