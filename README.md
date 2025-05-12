@@ -6,6 +6,8 @@ This project implements a sparsely connected Feed-Forward Neural Network (FFNN) 
 1. OpenMP for multi-core CPU parallelization
 2. CUDA for GPU acceleration
 
+This project is part of the Architecture and Platform for Artificial Intelligence exam.
+
 ### Network Architecture
 
 The neural network has the following key characteristics:
