@@ -75,22 +75,14 @@ cd build
 ```
 - Same parameters as OpenMP version
 
-## Performance Highlights
-
-- CUDA implementation significantly outperforms OpenMP
-- Speedup of up to 1971× observed for shared memory kernel
-- Performance scales with input problem size
+## Analysis
+Refer to `Report.pdf` for a more accurate analysis of the performances of both implementations
 
 ## Requirements
 
 - GCC with OpenMP support
 - NVIDIA CUDA Toolkit
 - CMake (optional, for alternative build method)
-
-## Limitations
-
-- OpenMP version has memory constraints
-- Maximum input size: N = 2^21, K = 1000
 
 ## Authors
 
